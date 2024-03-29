@@ -262,11 +262,5 @@ def matwon():
     plt.legend()
     plt.show()
     
+start()
     
-    
-
-
-    
-    
-    
-            
